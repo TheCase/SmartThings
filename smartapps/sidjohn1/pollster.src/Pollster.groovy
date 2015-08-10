@@ -32,10 +32,10 @@
 
 definition(
     name: "Pollster",
-    namespace: "statusbits",
+    namespace: "sidjohn1",
     author: "geko@statusbits.com",
     description: "Poll or refresh device status periodically.",
-    category: "Convenience",
+    category: "My Apps",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png")
 
