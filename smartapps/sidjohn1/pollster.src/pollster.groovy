@@ -32,7 +32,7 @@
 
 definition(
     name: "Pollster",
-    namespace: "statusbits",
+    namespace: "sidjohn1",
     author: "geko@statusbits.com",
     description: "Poll or refresh device status periodically.",
     category: "Convenience",
