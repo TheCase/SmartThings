@@ -8,7 +8,7 @@
  *  Modified example Foscam device type to support dynamic input of credentials
  *  and enable / disable motion alarm to easily integrate into homemade
  *  security systems (when away, mark "alarmStatus" as "on", when present, mark
- *  "alarmStatus" as "off".  For use with email or FTP image uploading built
+ *  "alarmStatus" as "off".  For use with email or FTP image uploading built 
  *  into Foscam cameras.
  *
  *  Capability: Image Capture, Polling
