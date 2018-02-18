@@ -10,9 +10,11 @@ definition(
     author: "Erik Thayer",
     description: "This app allows you to change, delete, and schedule user access.",
     category: "Safety & Security",
-    iconUrl: "https://dl.dropboxusercontent.com/u/54190708/LockManager/lockmanager.png",
-    iconX2Url: "https://dl.dropboxusercontent.com/u/54190708/LockManager/lockmanagerx2.png",
-    iconX3Url: "https://dl.dropboxusercontent.com/u/54190708/LockManager/lockmanagerx3.png")
+  iconUrl: 'https://images.lockmanager.io/app/v1/images/lm.jpg',
+  iconX2Url: 'https://images.lockmanager.io/app/v1/images/lm2x.jpg',
+  iconX3Url: 'https://images.lockmanager.io/app/v1/images/lm3x.jpg'
+)
+
 
  import groovy.json.JsonSlurper
  import groovy.json.JsonBuilder
